@@ -200,6 +200,12 @@ a:active
 #sintec, greenway, southwire, backwoods
 {
 	width: 40%;
+	
+}
+		
+iframe
+{
+	width: 100%;
 }
 
 #wrapperLeft
@@ -214,4 +220,15 @@ a:active
 	float: right;
 }
 
+#panel
+{
+	display:none;
+}
 
+.flip
+{
+	text-align: center;
+	margin: auto;
+	font-size: 1em;
+	border: 1px solid green;
+}
